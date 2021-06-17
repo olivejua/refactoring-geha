@@ -22,21 +22,26 @@
 
 <details>
 <summary>마이페이지 > 예약내역(예약목록, 후기작성)</summary>
-예약내역 (예약목록, 후기작성)
 <img src = "docs/images/reservation_history.png">
 </details>
 
 <details>
 <summary>호스트페이지 > 내 게스트하우스(목록, 작성, 수정, 삭제)</summary>
-호스트페이지 > 내 게스트하우스
+<h4>목록</h4>
+<img src = "docs/images/guesthouse-list.png">
+<h4>작성</h4>
+<img src = "docs/images/guesthouse-write1.png">
+<img src = "docs/images/guesthouse-write2.png">
+<h4>수정</h4>
+<img src = "docs/images/guesthouse-update.png">
 </details>
 
 <details>
 <summary>호스트페이지 > 회원예약내역</summary>
-호스트페이지 > 회원예약내역
+<img src = "docs/images/reservation_history_of_my_guesthouses.png">
 </details>
 
 <details>
 <summary>호스트페이지 > 리뷰관리</summary>
-호스트페이지 > 리뷰관리
+<img src = "docs/images/manage-reviews_of_my_guesthouses.png">
 </details>

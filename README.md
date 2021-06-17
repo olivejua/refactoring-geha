@@ -13,8 +13,30 @@
 ## DB 설계
 <img src = "/docs/images/db_structure.png" width="60%" height="60%">
 
+## 구현 기능 소개
+<details>
+<summary>예약하기</summary>
+<img src = "docs/images/reserve1.png" width="60%" height="60%">
+<img src = "docs/images/reserve2.png" width="60%" height="60%">
+</details>
 
+<details>
+<summary>마이페이지 > 예약내역(예약목록, 후기작성)</summary>
+예약내역 (예약목록, 후기작성)
+<img src = "docs/images/reservation_history.png" width="60%" height="60%">
+</details>
 
+<details>
+<summary>호스트페이지 > 내 게스트하우스(목록, 작성, 수정, 삭제)</summary>
+호스트페이지 > 내 게스트하우스
+</details>
 
+<details>
+<summary>호스트페이지 > 회원예약내역</summary>
+호스트페이지 > 회원예약내역
+</details>
 
- 
+<details>
+<summary>호스트페이지 > 리뷰관리</summary>
+호스트페이지 > 리뷰관리
+</details>

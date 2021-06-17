@@ -11,19 +11,19 @@
 |MariaDB|CSS||
 
 ## DB 설계
-<img src = "/docs/images/db_structure.png" width="60%" height="60%">
+<img src = "/docs/images/db_structure.png">
 
 ## 구현 기능 소개
 <details>
 <summary>예약하기</summary>
-<img src = "docs/images/reserve1.png" width="60%" height="60%">
-<img src = "docs/images/reserve2.png" width="60%" height="60%">
+<img src = "docs/images/reserve1.png">
+<img src = "docs/images/reserve2.png">
 </details>
 
 <details>
 <summary>마이페이지 > 예약내역(예약목록, 후기작성)</summary>
 예약내역 (예약목록, 후기작성)
-<img src = "docs/images/reservation_history.png" width="60%" height="60%">
+<img src = "docs/images/reservation_history.png">
 </details>
 
 <details>
